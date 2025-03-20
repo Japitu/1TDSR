@@ -42,3 +42,23 @@ git commit -m 'Nome da mensagem'
 ```bash
 git push origin <nome-da-sua-brach>
 ```
+
+
+### No GitHub
+
+1. Acesse o repositório no GitHub. Após fazer o push verá a tela abaixo. Clique em **Compare & pull request**.
+
+![alt text](image.png)
+
+2. Prencha o título e adicione uma descrição se achar necessário
+
+3. Solicite a revisão de um dos responsáveis
+
+![alt text](image-1.png)
+
+4. Só clicar em **Create pull request**.
+
+5. Após a aprovação do PR (Pull Request) clique em **Squash and merge** para fazer o Merge.
+
+![alt text](image-2.png)
+
