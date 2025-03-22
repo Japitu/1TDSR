@@ -7,7 +7,7 @@ Bom dia/Boa tade/Boa noite, equipe 1TDSR.
 
 
 
-Criamos esta pasta com o objetivo de organizar as informações extraídas em nossas aulas, como códigos, slides e imagens, permitindo que todos possamos nos manter atualizados sobre o conteúdo que estamos aprendendo
+Criamos esta pasta com o objetivo de organizar as informações extraídas em nossas aulas, como códigos, slides e imagens, permitindo que todos possamos nos manter atualizados sobre o conteúdo que estamos aprendendo.
 
 
 ____________________________________________________________
