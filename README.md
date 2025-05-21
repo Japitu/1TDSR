@@ -112,31 +112,31 @@ git branch -D <nome-da-sua-branch>
 
 1. Acesse o repositório no GitHub. Após fazer o push verá a tela abaixo. Clique em **Compare & pull request**.
 
-![alt text](image.png)
+![alt text](./img/image.png)
 
 2. Prencha o título e adicione uma descrição se achar necessário
 
 3. Solicite a revisão de um dos responsáveis
 
-![alt text](image-1.png)
+![alt text](./img/image-1.png)
 
 4. Só clicar em **Create pull request**.
 
 5. Aguarde a aprovação do PR (Pull Request):
 
-![alt text](image-4.png)
+![alt text](./img/image-4.png)
 
 6. Clique em **Squash and merge** para fazer o Merge.
 
-![alt text](image-2.png)
+![alt text](./img/image-2.png)
 
-![alt text](image-3.png)
+![alt text](./img/image-3.png)
 
 7. Caso queira, pode alterar a mensagem do commit do merge ou adicionar um descrição. Após isso, só confirmar o merge.
 
-![alt text](image-5.png)
+![alt text](./img/image-5.png)
 
 8. Se tudo der certo, verá uma tela parecida com a que está abaixo. Significa que deu tudo certo. Pode clicar em **Deletar branch**.
 
-![alt text](image-6.png)
+![alt text](./img/image-6.png)
 
